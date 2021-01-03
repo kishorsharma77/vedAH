@@ -1063,11 +1063,19 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/vedAH/meta/shAkhA/atharvavedaH/</loc>
+    <loc>https://vvasuki.github.io/vedAH/yajuH/meta/</loc>
   </url>
   
   <url>
     <loc>https://vvasuki.github.io/vedAH/meta/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/vedAH/sAma/meta/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/vedAH/atharva/meta/</loc>
   </url>
   
   <url>
@@ -1447,7 +1455,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/vedAH/meta/shAkhA/sAmavedaH/paravastu-sampradAyaH/</loc>
+    <loc>https://vvasuki.github.io/vedAH/sAma/meta/paravastu-sampradAyaH/</loc>
   </url>
   
   <url>
@@ -1503,15 +1511,15 @@
   </url>
   
   <url>
+    <loc>https://vvasuki.github.io/vedAH/atharva/meta/MT_lekhAH/</loc>
+  </url>
+  
+  <url>
     <loc>https://vvasuki.github.io/vedAH/meta/ChandaH/MT_lekhAH/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/vedAH/meta/shAkhA/atharvavedaH/MT_lekhAH/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vvasuki.github.io/vedAH/meta/shAkhA/sAmavedaH/MT_lekhAH/</loc>
+    <loc>https://vvasuki.github.io/vedAH/sAma/meta/MT_lekhAH/</loc>
   </url>
   
   <url>
@@ -1588,10 +1596,6 @@
   
   <url>
     <loc>https://vvasuki.github.io/vedAH/taittirIyam/saMhitA/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vvasuki.github.io/vedAH/meta/shAkhA/sAmavedaH/</loc>
   </url>
   
   <url>
@@ -2167,7 +2171,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/vedAH/meta/shAkhA/atharvavedaH/MT_lekhAH/2006-02-06_attaining-atharvana-mantra-gyana/</loc>
+    <loc>https://vvasuki.github.io/vedAH/atharva/meta/MT_lekhAH/2006-02-06_attaining-atharvana-mantra-gyana/</loc>
   </url>
   
   <url>
@@ -2199,11 +2203,11 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/vedAH/meta/shAkhA/sAmavedaH/MT_lekhAH/2004-08-06_the-construction-of-samans/</loc>
+    <loc>https://vvasuki.github.io/vedAH/sAma/meta/MT_lekhAH/2004-08-06_the-construction-of-samans/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/vedAH/meta/shAkhA/atharvavedaH/MT_lekhAH/2005-10-01_the-oral-and-textual-traditions-of-the-shaunakiya-atharvaveda/</loc>
+    <loc>https://vvasuki.github.io/vedAH/atharva/meta/MT_lekhAH/2005-10-01_the-oral-and-textual-traditions-of-the-shaunakiya-atharvaveda/</loc>
   </url>
   
   <url>
@@ -2927,7 +2931,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/vedAH/meta/shAkhA/sAmavedaH/paravastu-sampradAyaH/paravastu-sAma-paramparA/</loc>
+    <loc>https://vvasuki.github.io/vedAH/sAma/meta/paravastu-sampradAyaH/paravastu-sAma-paramparA/</loc>
   </url>
   
   <url>
@@ -3459,10 +3463,6 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/vedAH/meta/shAkhA/yajurvedaH/</loc>
-  </url>
-  
-  <url>
     <loc>https://vvasuki.github.io/vedAH/tags/%E0%A4%AF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%83/</loc>
   </url>
   
@@ -3739,7 +3739,11 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/vedAH/meta/shAkhA/sAmavedaH/shAkhA/</loc>
+    <loc>https://vvasuki.github.io/vedAH/sAma/meta/shAkhA/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vvasuki.github.io/vedAH/yajuH/meta/shAkhAH/</loc>
   </url>
   
   <url>

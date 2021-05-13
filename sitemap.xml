@@ -846,6 +846,9 @@
   </url><url>
     <loc>https://vvasuki.github.io/vedAH/meta/post-veda/</loc>
   </url><url>
+    <loc>https://vvasuki.github.io/vedAH/search/</loc>
+    <priority>0.1</priority>
+  </url><url>
     <loc>https://vvasuki.github.io/vedAH/tags/</loc>
   </url><url>
     <loc>https://vvasuki.github.io/vedAH/sAma/meta/MT_lekhAH/2004-08-06_the-construction-of-samans/</loc>

@@ -12,7 +12,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vvasuki.github.io/vedAH/contribution/computer-setup/</guid>
-      <description>समानं कर्म  अधः XYZ इति यद् अस्ति, तस्य स्थाने स्वीयं github-नाम प्रयुङ्क्ताम्। https://github.com/XYZ/vedAH इति पूर्वम् एव वर्तते चेन् निष्कासयतु browser-उपयोगेन। https://github.com/vvasuki/vedAH इत्यत्र गत्वा पुनः fork इति करोतु। https://github.com/XYZ/vedAH इति किञ्चिल् लभ्यते। यदि कार्यम् vedAH-content इत्यस्मिन् क्रियते  git pull upstream content इति परिवर्तनानि लभ्यानि। ततो नुदित्वाकर्षणाभ्यर्थनं https://github.com/XYZ/vedAH/tree/content इत्यत्र गत्वा प्रेषणीयम्।   यदि कार्यम् vedAH-static इत्यस्मिन् क्रियते  git pull upstream static_files इति परिवर्तनानि लभ्यानि। ततो नुदित्वाकर्षणाभ्यर्थनं https://github.com/XYZ/vedAH/tree/static इत्यत्र गत्वा प्रेषणीयम्।    Windows setup ततः (F:\Git इति यथापेक्षं परिवर्त्य)-</description>
+      <description>समानं कर्म  अधः XYZ इति यद् अस्ति, तस्य स्थाने स्वीयं github-नाम प्रयुङ्क्ताम्। https://github.com/XYZ/vedAH इति पूर्वम् एव वर्तते चेन् निष्कासयतु browser-उपयोगेन। https://github.com/vvasuki/vedAH इत्यत्र गत्वा पुनः fork इति करोतु। https://github.com/XYZ/vedAH इति किञ्चिल् लभ्यते।  Windows setup ततः (F:\Git इति यथापेक्षं परिवर्त्य)-
+cd F:\Git\ git clone --single-branch --depth 1 --branch content https://github.com/XYZ/vedAH.git vedAH-content git clone --single-branch --depth 1 --branch static_files https://github.com/XYZ/vedAH.git vedAH-static git clone --single-branch --depth 1 --branch master https://github.com/XYZ/vedAH.git vedAH-master cd f:\Git\vedAH-static git remote add upstream https://github.</description>
     </item>
     
     <item>

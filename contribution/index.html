@@ -187,64 +187,7 @@
     </div>
   </aside>
   <div id="post_content">
-  <h2 id="समन-करम">समानं कर्म</h2>
-<ul>
-<li>अधः XYZ इति यद् अस्ति, तस्य स्थाने स्वीयं github-नाम प्रयुङ्क्ताम्।</li>
-<li><a href="https://github.com/XYZ/vedAH">https://github.com/XYZ/vedAH</a> इति पूर्वम् एव वर्तते चेन् निष्कासयतु browser-उपयोगेन।</li>
-<li><a href="https://github.com/vvasuki/vedAH">https://github.com/vvasuki/vedAH</a> इत्यत्र गत्वा पुनः fork इति करोतु। <a href="https://github.com/XYZ/vedAH">https://github.com/XYZ/vedAH</a> इति किञ्चिल् लभ्यते।</li>
-<li>यदि कार्यम् vedAH-content इत्यस्मिन् क्रियते
-<ul>
-<li><code>git pull upstream content</code> इति परिवर्तनानि लभ्यानि।</li>
-<li>ततो नुदित्वाकर्षणाभ्यर्थनं <a href="https://github.com/XYZ/vedAH/tree/content">https://github.com/XYZ/vedAH/tree/content</a> इत्यत्र गत्वा प्रेषणीयम्।</li>
-</ul>
-</li>
-<li>यदि कार्यम् vedAH-static इत्यस्मिन् क्रियते
-<ul>
-<li><code>git pull upstream static_files</code> इति परिवर्तनानि लभ्यानि।</li>
-<li>ततो नुदित्वाकर्षणाभ्यर्थनं <a href="https://github.com/XYZ/vedAH/tree/static">https://github.com/XYZ/vedAH/tree/static</a> इत्यत्र गत्वा प्रेषणीयम्।</li>
-</ul>
-</li>
-</ul>
-<h2 id="windows-setup">Windows setup</h2>
-<p>ततः (<code>F:\Git</code> इति यथापेक्षं परिवर्त्य)-</p>
-<pre><code>cd F:\Git\
-
-git clone --single-branch --depth 1 --branch content https://github.com/XYZ/vedAH.git vedAH-content
-git clone --single-branch --depth 1 --branch static_files https://github.com/XYZ/vedAH.git vedAH-static
-git clone --single-branch --depth 1 --branch master https://github.com/XYZ/vedAH.git vedAH-master
-
-cd f:\Git\vedAH-static
-git remote add upstream https://github.com/vvasuki/vedAH.git
-git pull upstream static_files
-
-cd f:\Git\vedAH-content
-git remote add upstream https://github.com/vvasuki/vedAH.git
-git pull upstream content
-
-rmdir /S F:\Git\vedAH-master\content
-rmdir /S F:\Git\vedAH-master\static
-mklink /h F:\Git\vedAH-master\content F:\Git\vedAH-content
-mklink /h F:\Git\vedAH-master\static F:\Git\vedAH-static
-</code></pre><h2 id="linux-setup">Linux setup</h2>
-<pre><code>cd ~/git_projects/
-
-git clone --single-branch --depth 1 --branch content https://github.com/XYZ/vedAH.git vedAH-content
-git clone --single-branch --depth 1 --branch static_files https://github.com/XYZ/vedAH.git vedAH-static
-git clone --single-branch --depth 1 --branch master https://github.com/XYZ/vedAH.git vedAH-master
-
-cd ~/git_projects/vedAH-static
-git remote add upstream https://github.com/vvasuki/vedAH.git
-git pull upstream static_files
-
-cd ~/git_projects/vedAH-content
-git remote add upstream https://github.com/vvasuki/vedAH.git
-git pull upstream content
-
-rm -rf ~/git_projects/vedAH-master/content
-rm -rf ~/git_projects/vedAH-master/static
-ln -s ~/git_projects/vedAH-content ~/git_projects/vedAH-master/content 
-ln -s ~/git_projects/vedAH-static ~/git_projects/vedAH-master/static 
-</code></pre>
+  
   </div>
 </article>
 
@@ -281,6 +224,31 @@ ln -s ~/git_projects/vedAH-static ~/git_projects/vedAH-master/static
             
             
             
+            
+            
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="https://vvasuki.github.io/vedAH/contribution/computer-setup/">Computer setup </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Computer setup</li>
+        
+        <li>unicode_script: devanagari</li>
+        
+    </nav>
+</aside>
+
             
             
 
@@ -327,7 +295,7 @@ ln -s ~/git_projects/vedAH-static ~/git_projects/vedAH-master/static
     </a>
     <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
     <div class="btn small border">
-      Built on 2021 Jun 4 07:05:25 UTC. (<a href="http://google.com/search?q=07%3a05%3a25%20UTC to IST">IST</a>)
+      Built on 2021 Jun 4 08:14:37 UTC. (<a href="http://google.com/search?q=08%3a14%3a37%20UTC to IST">IST</a>)
     </div>
   <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
   </ul>

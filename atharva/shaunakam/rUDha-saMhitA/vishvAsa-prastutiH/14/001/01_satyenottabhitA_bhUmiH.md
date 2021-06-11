@@ -2,5 +2,5 @@
 title = "०१ सत्येनोत्तभिता भूमिः"
 
 +++
-स॒त्येनोत्त॑भिता॒ भूमिः॒ सूर्ये॒णोत्त॑भिता॒ द्यौः ।  
-ऋ॒तेना॑दि॒त्यास्ति॑ष्ठन्ति दि॒वि सोमो॒ अधि॑ श्रि॒तः ॥१॥  
+
+-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/01_satyenottabhitA_bhUmiH.md"  newLevelForH1="2" includeTitle="false"> </div>
